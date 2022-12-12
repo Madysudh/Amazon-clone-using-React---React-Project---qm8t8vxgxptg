@@ -6,47 +6,48 @@ function Home() {
   return (
     <div className="home">
       <div className="home__container">
+        
         <img
           className="home__image"
-          src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
+          src="https://m.media-amazon.com/images/I/51qBj3502YL._SX3000_.jpghttps://m.media-amazon.com/images/I/51qBj3502YL._SX3000_.jpg"
           alt=""
         />
 
         <div className="home__row">
           <Product
             id="12321341"
-            title="I Can Make You Rich by Paul McKenna and Richard Branson"
-            price={20.7}
-            image="https://m.media-amazon.com/images/I/71GuoM0q2NL._AC_UY218_.jpg"
+            title="LG 360 L 2 Star Frost-Free Smart Inverter Double Door Refrigerator (GL-D382SDSY, Dazzle Steel, Door Cooling+ & Multi Air Flow)"
+            price={79.7}
+            image="https://m.media-amazon.com/images/I/61r5DUOrTvL._SX679_.jpg"
             rating={4}
           />
           <Product
             id="49538094"
-            title="KitchenAid KSM150PSAQ Artisan Series 5-Qt. Stand Mixer with Pouring Shield - Aqua Sky"
+            title="AmazonBasics 1 Ton 3 Star Split AC (White, Copper, Anti corrosion coating)"
             price={399.0}
-            image="https://m.media-amazon.com/images/I/71DAYttsoPL._AC_UY218_.jpg"
+            image="https://m.media-amazon.com/images/I/71Z9+rx576L._SX679_.jpg"
             rating={5}
           />
         </div>
         <div className="home__row">
           <Product
             id="54419823"
-            title="Apple Watch Series 3 (GPS, 38MM) - Silver Aluminum Case with White Sport Band (Renewed)"
+            title="Apple iPhone 13 (128GB) - Midnight"
             price={159.99}
-            image="https://m.media-amazon.com/images/I/71UJtA8cFJL._AC_UY218_.jpg"
+            image="https://m.media-amazon.com/images/I/61VuVU94RnL._AC_UY218_.jpg"
             rating={5}
           />
           <Product
             id="41098920"
-            title="JBL Charge 4 Waterproof Wireless Bluetooth Speaker Bundle with Portable Hard Case - Blue"
-            price={118.79}
-            image="https://m.media-amazon.com/images/I/81IoRGCyfgL._AC_UY218_.jpg"
+            title="JBL Clip 4, Wireless Ultra Portable Bluetooth Speaker, JBL Pro Sound, Integrated Carabiner, Vibrant Colors with Rugged Fabric Design, Dust & Waterproof, Type C (Without Mic, Blue)"
+            price={75.79}
+            image="https://m.media-amazon.com/images/I/61QK6svpbDS._AC_UY218_.jpg"
             rating={4}
           />
           <Product
             id="75879863"
             title="2022 Apple iPad Air (10.9-inch, Wi-Fi, 64GB) - Space Gray (5th Generation)"
-            price={299.0}
+            price={180.0}
             image="https://m.media-amazon.com/images/I/61XZQXFQeVL._AC_UY218_.jpg"
             rating={3}
           />
@@ -54,9 +55,9 @@ function Home() {
         <div className="home__row">
           <Product
             id="53641287"
-            title="Samsung Odyssey 49-in Gaming G9 Computer Monitor LC49G97TSSNXDC"
-            price={1099.9}
-            image="https://m.media-amazon.com/images/I/61SQz8S+fEL._AC_UY218_.jpg"
+            title="ZEBRONICS Juke BAR 9750 PRO 5.1.2 Surround Dolby Atmos 525 Watt Soundbar with Subwoofer, Dual Wireless Rear Satellites, HDMI eARC, Optical, Bluetooth 5.0, Wall Mount & Remote Control"
+            price={300.9}
+            image="https://m.media-amazon.com/images/I/41VI1wkzEeL._SX300_SY300_QL70_FMwebp_.jpg"
             rating={5}
           />
         </div>

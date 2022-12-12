@@ -11,6 +11,27 @@
     z-index: -1;
     margin-bottom: -150px;
     mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+    animation: slide 3s linear infinite ;
+}
+@keyframes slide{
+    0%{
+        background-image: url("https://m.media-amazon.com/images/I/71YTqRQKAAL._SX3000_.jpg");
+    }
+    20%{
+        background-image: url("https://m.media-amazon.com/images/I/81cP1IAxf-L._SX3000_.jpg");
+    }
+    40%{
+        background-image: url("https://m.media-amazon.com/images/I/51AQhraI0-L._SX3000_.png");
+    }
+    60%{
+        background-image: url("https://m.media-amazon.com/images/I/91gGEf9NmoL._SX3000_.jpg");
+    }
+    80%{
+        background-image: url("https://m.media-amazon.com/images/I/81CW3yNtc-L._SX3000_.jpg");
+    }
+    100%{
+        background-image: url("https://m.media-amazon.com/images/I/71cQMXCLSvL._SX3000_.jpg");
+    }
 }
 
 .home__row {

@@ -3,7 +3,7 @@
 In this project, you can create an account and login. Then you can add products to your cart and pay. If you wish, you can remove products from the cart. After making the payment, you can view your order information in the Orders section.
 
 You can use the following information to make a payment:
-- Credit Card Number: 4242 4242 4242 4242
+- Credit Card Number: 1237 5678 9823 1234
 - CVV: 242
 - Valid Date: 0424
 - ZIP Code: 42424
@@ -13,7 +13,7 @@ Click demo to try it by yourself!
 ## Amazon-Clone Demo Link
 
 You can view the site here
-[Click Me](https://amzn-clone-ozngrsc.web.app/)
+[Click Me](https://amazon-clone-fmy5.onrender.com/)
 
 ## Topics
 
@@ -35,6 +35,6 @@ You can view the site here
 
 ## Author
 
-Ozan Gürsucu (ozngrsc)
+Sudhanshu Kumar
 
-<img src="src/images/screenshot.png"  width= 500px height= 400px>
+<img src="src/images/screshot.png"  width= 500px height= 400px>
